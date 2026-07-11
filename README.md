@@ -1,7 +1,7 @@
 <div style="text-align: center;">
     <img src="dist/wafel_installer-logo.png" alt="Wafel Installer Logo" style="width: 80px;" />
     <h3>Pancak Installer</h3>
-    <p>Pancak Installer is a tool for the Wii U designed to be launched via the browser (at <a href="https://wafel.xyz">wafel.xyz</a>) It assists in preparing storage devices by formatting and partitioning SD cards or USB drives to support both homebrew and game storage. The application automates the setup of Aroma, Stroopwafel CFW, and the ISFShax exploit.</p>
+    <p>Pancak Installer is a tool for the Wii U designed to be launched via the browser (at <a href="https://lostcannon97363.github.io/pancak_installer">lostcannon97363.github.io/pancak_installer</a>) It assists in preparing storage devices by formatting and partitioning SD cards or USB drives to support both homebrew and game storage. The application automates the setup of Aroma, Stroopwafel CFW, and the ISFShax exploit.</p>
 <p>Credit to the OG Walfel Installer team for the Wafel Installer source that Pancak Installer is based on!</p>
 </div>
 
