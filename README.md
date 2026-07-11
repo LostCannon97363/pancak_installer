@@ -1,7 +1,8 @@
 <div style="text-align: center;">
     <img src="dist/wafel_installer-logo.png" alt="Wafel Installer Logo" style="width: 80px;" />
-    <h3>Wafel Installer</h3>
-    <p>Wafel Installer is a tool for the Wii U designed to be launched via the browser (at <a href="https://wafel.xyz">wafel.xyz</a>) or directly from Aroma. It assists in preparing storage devices by formatting and partitioning SD cards or USB drives to support both homebrew and game storage. The application automates the setup of Aroma, Stroopwafel CFW, and the ISFShax exploit.</p>
+    <h3>Pancak Installer</h3>
+    <p>Pancak Installer is a tool for the Wii U designed to be launched via the browser (at <a href="https://wafel.xyz">wafel.xyz</a>) It assists in preparing storage devices by formatting and partitioning SD cards or USB drives to support both homebrew and game storage. The application automates the setup of Aroma, Stroopwafel CFW, and the ISFShax exploit.</p>
+<p>Credit to the OG Walfel Installer team for the Wafel Installer source that Pancak Installer is based on!</p>
 </div>
 
 To mod your Wii U follow the [Guide](Guide/GettingStarted.md).
@@ -17,14 +18,7 @@ To mod your Wii U follow the [Guide](Guide/GettingStarted.md).
 - **No SD required** can use USB instead.
 
 ## How to use
-**Method 1:**  
-Use [wafel.xyz](https://wafel.xyz) on your Wii U to launch Wafel Installer without any setup or SD card.
-
-**Method 2:**
-Use the Wii U App Store to download it. (coming soon)
-
-**Method 3:**  
-Download the [latest release from GitHub](https://github.com/zer00p/wafel_installer/releases), and extract the `wafel_installer.zip` file to the root of your SD card.
+Use [lostcannon97363.github.io/pancak_installer](https://lostcannon97363.github.io/wiiu-mod-guide) on your Wii U to launch Pancak Installer without any setup or SD card.
 
 ## Guide
 
@@ -43,7 +37,6 @@ To mod your Wii U follow the [Guide](Guide/GettingStarted.md).
  - [emiyl](https://github.com/emiyl) for [dumpling-classic](https://github.com/emiyl/dumpling-classic)
  - [zer00p](https://github.com/zer00p) for Wafel Installer
  - chriz, Tomk007 and Jaimie for testing (dumpling)
- - [wut](https://github.com/devkitpro/wut) for providing the Wii U toolchain that Wafel Installer is built with
  - [Dimok](https://github.com/dimok789) for the original fw_img_payload.
  - The [wiiu-env](https://github.com/wiiu-env) developers (especially [Maschell](https://github.com/Maschell)) for Aroma.
  - [shinyquagsire23](https://github.com/shinyquagsire23) for stroopwafel and fw_img_loader additions.
@@ -61,4 +54,4 @@ This project is licensed under the **GNU General Public License v2.0**. See the 
 
 Some parts of this project were originally licensed under the MIT license. The original MIT license is preserved in the `LICENSE-MIT.md` file.
 
-Wafel Installer also includes [libschrift](https://github.com/tomolt/libschrift), see its ISC-styled license [here](https://github.com/tomolt/libschrift/blob/master/LICENSE).
+Pancak Installer also includes [libschrift](https://github.com/tomolt/libschrift), see its ISC-styled license [here](https://github.com/tomolt/libschrift/blob/master/LICENSE).
